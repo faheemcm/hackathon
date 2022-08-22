@@ -1,0 +1,21 @@
+Font Family -Inter
+Font Size - H1 :94Px
+		H2 :67Px
+		H3 :45PX
+		H4 :43Px
+		H5 :40px
+		H6 :28Px
+		H7 :26Px
+		H8 :24Px
+		H9 :19px
+		H10 :18px
+		H11 :16px
+		
+
+
+link: https://fonts.google.com/specimen/Poppins
+
+Colours :
+ violet:8873EF
+ yellow: FCDA69
+light blue:B9F2FE
